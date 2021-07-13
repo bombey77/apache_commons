@@ -1,15 +1,13 @@
 import org.apache.commons.collections4.CollectionUtils;
-import org.apache.commons.collections4.Transformer;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
 
-public class Demo {
+public class CollectionUtilsDemo {
 
     public static void main(String[] args) {
-//        System.out.println(CollectionUtils.union(list1, list2));
 //        addingOnlyNonNullElements();
 //        givenTwoSortedListsWhenCollatedThenSorted();
 //        discreteFunction();
